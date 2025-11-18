@@ -102,8 +102,6 @@ If you like this project, please give it a [⭐️ star on GitHub](https://githu
 ## Credits
 
 - [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
 
 ---
 
