@@ -1,4 +1,4 @@
-# 🤖 Knight Bot
+# 🤖 Shadowstep Bot
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
@@ -9,7 +9,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-    <img src="https://github.com/shadowstepakshat/Shadowstep-MD/assets/bot_image.jpg" alt="Shadowstep Bot" height="300"> 
+    <img src="https://github.com/shadowstepakshat/Shadowstep-MD/blob/main/assets/bot_image.jpg" alt="Shadowstep Bot" height="300"> 
 </div>
 
 ---
