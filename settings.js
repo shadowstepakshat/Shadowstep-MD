@@ -10,7 +10,7 @@ const settings = {
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
   version: "3.0.4",
-  updateZipUrl: "https://https://github.com/shadowstepakshat/Shadowstep-MD/archive/refs/heads/main.zip",
+  updateZipUrl: "https://github.com/shadowstepakshat/Shadowstep-MD/archive/refs/heads/main.zip",
 };
 
 module.exports = settings;
